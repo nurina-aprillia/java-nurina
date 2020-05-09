@@ -99,7 +99,7 @@
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
           <Image iconType="3" name="/gtk-edit.png"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="Input List harga"/>
+        <Property name="text" type="java.lang.String" value="Input Karyawan"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
